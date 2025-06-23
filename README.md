@@ -61,7 +61,7 @@
 https://github.com/CybertipsCT/WebScannerTool.git
 ```
 ```bash
-cd loxs
+cd WebScanner
 ```
 
 ### Install the requirements
@@ -139,7 +139,7 @@ But **this can break your system**, so use it only if you absolutely know what y
 ### Run the Script
 
 ```bash
-python3 loxs.py
+python3 WebScanner.py
 ```
 
 
