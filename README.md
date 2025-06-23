@@ -103,7 +103,7 @@ hint: See PEP 668 for the detailed specification.
 #### 1. Create a virtual environment:
 
 ```bash
-python3 -m venv WebScannr
+python3 -m venv WebScanner
 ```
 
 #### 2. Activate it:
