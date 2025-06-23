@@ -58,7 +58,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/.git
+https://github.com/CybertipsCT/WebScannerTool.git
 ```
 ```bash
 cd loxs
