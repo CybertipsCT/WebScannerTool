@@ -58,7 +58,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/coffinxp/loxs.git
+git clone https://github.com/.git
 ```
 ```bash
 cd loxs
